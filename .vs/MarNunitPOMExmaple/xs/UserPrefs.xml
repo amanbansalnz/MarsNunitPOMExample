@@ -1,43 +1,18 @@
 ﻿<Properties StartupConfiguration="{B40FB5B9-2DEE-4C02-9463-00ABF8749B20}|https">
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.MarsNunitPOMExample PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="test/Tests/EducationTest.cs">
-    <Files>
-      <File FileName="test/Program.cs" />
-      <File FileName="test/appsettings.json" Line="1" Column="1" />
-      <File FileName="test/appsettings.Development.json" />
-      <File FileName="test/Mars.cs" Line="32" Column="1" />
-      <File FileName="test/Steps/LoginSteps.cs" Line="22" Column="21" />
-      <File FileName="test/Utils/GobalHelper.cs" Line="26" Column="1" />
-      <File FileName="test/Pages/LoginPage.cs" Line="42" Column="1" />
-      <File FileName="test/Model/UserInformation.cs" Line="29" Column="23" />
-      <File FileName="test/Properties/launchSettings.json" Line="1" Column="1" />
-      <File FileName="test/TestData/UserInformation.json" Line="5" Column="4" />
-      <File FileName="test/Utils/JsonReader.cs" Line="14" Column="24" />
-      <File FileName="test/Pages/components/NavigationMenuComponent.cs" Line="3" Column="24" />
-      <File FileName="test/Pages/components/ProfileMenuTabsComponents.cs" Line="50" Column="21" />
-      <File FileName="test/Pages/components/HomePage.cs" Line="42" Column="23" />
-      <File FileName="test/Steps/HomePageSteps.cs" Line="46" Column="30" />
-      <File FileName="test/Pages/components/ProfileOverview/ProfileCertificationOverviewComponent.cs" Line="50" Column="1" />
-      <File FileName="test/Pages/components/ProfileOverview/ProfileLanguageOverviewComponent.cs" Line="10" Column="1" />
-      <File FileName="test/Pages/components/ProfileOverview/ProfileEducationOverviewComponent.cs" Line="1" Column="1" />
-      <File FileName="test/Pages/components/ProfileOverview/ProfileSkillOverviewComponent.cs" Line="1" Column="1" />
-      <File FileName="test/Utils/Wait.cs" Line="11" Column="45" />
-      <File FileName="test/Model/EducationModel.cs" Line="4" Column="15" />
-      <File FileName="test/Steps/CertificationSteps.cs" Line="14" Column="4" />
-      <File FileName="test/Pages/Components/SignIn/LoginComponent.cs" Line="26" Column="1" />
-      <File FileName="test/Pages/Components/ProfileOverview/AddEducationComponent.cs" Line="104" Column="40" />
-      <File FileName="test/Steps/EducationSteps.cs" Line="36" Column="93" />
-      <File FileName="test/AssertHelpers/EducationAssertHelper.cs" Line="12" Column="1" />
-      <File FileName="test/Tests/EducationTests.cs" Line="33" Column="29" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
-        <State name="__root__" />
+        <State name="__root__">
+          <Node name="MarNunitPOMExmaple">
+            <Node name="MarsNunitPOMExample" expanded="True" selected="True" />
+          </Node>
+        </State>
       </Pad>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
-          <Node name="test" selected="True" />
+          <Node name="MarNunitPOMExmaple" expanded="True" selected="True" />
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
@@ -48,8 +23,8 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="/Users/aman.bansal/Projects/test/test/Utils/GlobalHelper.cs" relfile="test/Utils/GlobalHelper.cs" line="26" column="1" />
-      <Breakpoint file="/Users/aman.bansal/Projects/test/test/Pages/Components/ProfileOverview/ProfileMenuTabsComponents.cs" relfile="test/Pages/Components/ProfileOverview/ProfileMenuTabsComponents.cs" line="28" column="1" />
+      <Breakpoint file="/Users/aman.bansal/Projects/MarNunitPOMExmaple/test/Utils/GlobalHelper.cs" relfile="test/Utils/GlobalHelper.cs" line="26" column="1" />
+      <Breakpoint file="/Users/aman.bansal/Projects/MarNunitPOMExmaple/test/Pages/Components/ProfileOverview/ProfileMenuTabsComponents.cs" relfile="test/Pages/Components/ProfileOverview/ProfileMenuTabsComponents.cs" line="28" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
