@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/aman.bansal/Projects/MarNunitPOMExmaple/MarNunitPOMExmaple/MarsNunitPOMExample.csproj": {}
+    "/Users/aman.bansal/Documents/mvp-documents/projects/MarsNunitPOMExample/MarNunitPOMExmaple/MarsNunitPOMExample.csproj": {}
   },
   "projects": {
-    "/Users/aman.bansal/Projects/MarNunitPOMExmaple/MarNunitPOMExmaple/MarsNunitPOMExample.csproj": {
+    "/Users/aman.bansal/Documents/mvp-documents/projects/MarsNunitPOMExample/MarNunitPOMExmaple/MarsNunitPOMExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/aman.bansal/Projects/MarNunitPOMExmaple/MarNunitPOMExmaple/MarsNunitPOMExample.csproj",
+        "projectUniqueName": "/Users/aman.bansal/Documents/mvp-documents/projects/MarsNunitPOMExample/MarNunitPOMExmaple/MarsNunitPOMExample.csproj",
         "projectName": "MarsNunitPOMExample",
-        "projectPath": "/Users/aman.bansal/Projects/MarNunitPOMExmaple/MarNunitPOMExmaple/MarsNunitPOMExample.csproj",
+        "projectPath": "/Users/aman.bansal/Documents/mvp-documents/projects/MarsNunitPOMExample/MarNunitPOMExmaple/MarsNunitPOMExample.csproj",
         "packagesPath": "/Users/aman.bansal/.nuget/packages/",
-        "outputPath": "/Users/aman.bansal/Projects/MarNunitPOMExmaple/MarNunitPOMExmaple/obj/",
+        "outputPath": "/Users/aman.bansal/Documents/mvp-documents/projects/MarsNunitPOMExample/MarNunitPOMExmaple/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/aman.bansal/.nuget/NuGet/NuGet.Config"

@@ -7,7 +7,7 @@ using test.Utils;
 
 namespace test.Pages.Components
 {
-    public class AddEducationComponent : GobalHelper
+    public class AddAndUpdateEducationComponent : GobalHelper
 
     {
 

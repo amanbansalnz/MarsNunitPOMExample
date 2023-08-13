@@ -9,12 +9,12 @@ namespace test.Steps
 	public class EducationSteps
     {
         ProfileEducationOverviewComponent ProfileEducationOverviewComponent;
-        AddEducationComponent addEducationComponent;
+        AddAndUpdateEducationComponent addAndUpdateEducationComponent;
 
         public EducationSteps() {
 
             ProfileEducationOverviewComponent =  new ProfileEducationOverviewComponent();
-            addEducationComponent = new AddEducationComponent();
+            addAndUpdateEducationComponent = new AddAndUpdateEducationComponent();
 
         }
 
@@ -30,8 +30,8 @@ namespace test.Steps
 
             ProfileEducationOverviewComponent.clickAddEducationButton();
 
-            addEducationComponent.addEducation(education);
-            String acutalSuccessMessage =addEducationComponent.getSuccessMessage();
+            addAndUpdateEducationComponent.addEducation(education);
+            String acutalSuccessMessage = addAndUpdateEducationComponent.getSuccessMessage();
 
             EducationAssertHelper.assertAddEducationSuccessMessage("Education has been added", acutalSuccessMessage);
         }
